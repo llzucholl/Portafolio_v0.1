@@ -1,0 +1,13 @@
+.u-SmediaLogo {
+	width: 50px;
+}
+
+.Header {
+	background: #ccc;
+	display: inline-block;
+}
+
+.Header_avatar {
+	width: 200px;
+	height: 200px;
+}
